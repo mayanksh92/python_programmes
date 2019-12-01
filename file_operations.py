@@ -2,8 +2,8 @@ import sys
 import os
 
 f1 = open('file1.txt','r+')
-# print(f1.name)
-# print(f1.readline())
+print(f1.name)
+print(f1.readline())
 
 #print(type(f1.read()))
 # print(f1.read(10))
